@@ -15,6 +15,16 @@
   </ul>
 
   <blockquote><strong>🚧 Note:</strong> This project is currently under active development. Contributions and suggestions are warmly welcomed!</blockquote>
+ <h2>📸 Demo</h2>
+
+#### 🏠 Homepage
+![Homepage](./screenshots/homepage.png.jpg)
+
+#### 📅 Schedule
+![Schedule](./screenshots/Schedule.jpg)
+
+#### 🗒️ Syllabus 
+![Syllabus](./screenshots/Syllabus.jpg)
 
   <h2>✨ Features (Implemented & Planned)</h2>
   <ul>
